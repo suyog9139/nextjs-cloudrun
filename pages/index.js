@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Welcome to <a href="https://www.techedemic.com">Cloud Run Website</a>
+          Welcome to <a href="https://nextjs-cloudrun-etomkcbpeq-ue.a.run.app">Cloud Run Website using github actions</a>
         </h1>
       </main>
 
